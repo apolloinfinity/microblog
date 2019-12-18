@@ -115,6 +115,7 @@ dmypy.json
 .vscode
 
 venv/
+*.db
 
 config.py
 # End of https://www.gitignore.io/api/flask
