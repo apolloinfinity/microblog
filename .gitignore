@@ -118,4 +118,6 @@ venv/
 *.db
 
 config.py
+
+.env
 # End of https://www.gitignore.io/api/flask
